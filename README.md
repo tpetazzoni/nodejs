@@ -1,5 +1,8 @@
 ###node.js
 =======
+
+This is chinese.
+
 Node.js+express.js+mongoose+ejs+monogdb知识库管理系统 <br />
 > 框架用的MVC方式。<br />
 > > 基于express.js 的MVC方式实现<br />
